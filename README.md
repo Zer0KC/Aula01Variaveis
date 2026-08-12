@@ -123,7 +123,7 @@ Um GIF nada mais é do que uma imagem animada — usa-se **a mesma sintaxe de im
 
 **Exemplo (Watch Dogs):**
 
-![Hacking Watch Dogs GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhhcjAxNXgyeG52NG5xcDhpNmIxeDg3azNsanFxNGU0d29raDVwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lT6gZ7WOrmaJZiak0e/giphy.gif)
+![Hacking Watch Dogs GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5iczRjdGV3MDhkeTdpczBhcTl6dXdleHFibzV3M2hyeTZnd2hpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.gif)
 
 *(gif via GIPHY, tema Watch Dogs — hackear tudo, inclusive suas variáveis 😄)*
 
