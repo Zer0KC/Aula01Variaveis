@@ -9,16 +9,39 @@ namespace SeuProjeto
     {
         static void Main(string[] args) // <- Métodos a serem utilizados (Métodos são os blocos de código que ele vai executar) 
         {
-            
-        //  ConcatenarPalavras();
 
-        //  CalcularMedia();
+        Console.WriteLine("Observe o menu abaixo e digite o número referente a opção desejada: ");
+        Console.WriteLine("1 - Concatenar Palavras");
+        Console.WriteLine("2 - Verificar Dia da Semana");
+        Console.WriteLine("3 - Calcular Média");
+        Console.WriteLine("4 - Calcular Tabuada");
 
-        //  CalcularTabuada();
+        int opcaoEscolhida = int.Parse(Console.ReadLine());
 
+        switch (opcaoEscolhida){
+
+        case 1:
+          ConcatenarPalavras();
+          break;
+
+        case 2:
+          CalcularMedia();
+          break;
+
+        case 3:
+          CalcularTabuada();
+          break;
+
+        case 4:
           VerificarAulaEtec();
+          break;
+        default:
+            Console.WriteLine("Opção Inválida");
+            break;
 
         }
+
+    }
 
     
     
